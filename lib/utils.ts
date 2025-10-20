@@ -167,7 +167,7 @@ export function daysUntilNextDraw(drawDay: string): number {
   const drawDayIndex = days.indexOf(drawDay)
 
   let daysUntil = drawDayIndex - today
-  if (daysUntil <= 0) daysUntil += 7
+  if (daysUntil < 0) daysUntil += 7
 
   return daysUntil
 }
