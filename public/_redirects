@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects for Next.js static export
+# Serve 404.html for not found pages
+/* /404.html 404

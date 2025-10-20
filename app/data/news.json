@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Senior Football Team Reach League Semi-Final",
+      "date": "2025-10-19",
+      "category": "Match Report",
+      "excerpt": "St. Brigid's senior footballers secured their place in the Dublin Senior Football League semi-finals with a convincing victory over St. Vincent's at Raheny on Sunday.",
+      "content": "In front of a large away support, St. Brigid's put in a dominant second-half performance to win by 8 points (2-14 to 1-12). Captain James Brennan led from the front with 1-4, while Man of the Match Seán O'Brien controlled midfield throughout. The team will now face Ballymun Kickhams in the semi-final."
+    },
+    {
+      "id": 2,
+      "title": "Club Lotto Jackpot Reaches €4,200",
+      "date": "2025-10-18",
+      "category": "Club News",
+      "excerpt": "No winner in this week's club lotto draw means the jackpot continues to grow. Play online or get your tickets from sellers around the parish.",
+      "content": "This week's numbers were 7, 14, 22, 28. While there was no jackpot winner, five lucky players matched 3 numbers and won €20 each. The jackpot now stands at €4,200 for Monday's draw. Tickets are just €2 and can be purchased online at stbrigidsgaa.ie/lotto or from local sellers. Remember, your support helps fund our teams and facilities!"
+    },
+    {
+      "id": 3,
+      "title": "Juvenile Training Resumes This Weekend",
+      "date": "2025-10-17",
+      "category": "Juvenile",
+      "excerpt": "All juvenile teams (U8 to U16) return to training this Saturday morning at St. Brigid's GAA Grounds.",
+      "content": "Parents and players should note the following times: U8/U10 at 9:30am, U12/U14 at 10:45am, and U16 at 12:00pm. New players are always welcome! Please bring boots, water bottle, and gumshield. Contact our juvenile secretary at juvenile@stbrigidsgaa.ie for registration information."
+    },
+    {
+      "id": 4,
+      "title": "Annual Club Dinner Dance - Book Now",
+      "date": "2025-10-15",
+      "category": "Events",
+      "excerpt": "Our annual club dinner dance takes place on Saturday November 23rd at the Grand Hotel. Tickets selling fast!",
+      "content": "Join us for a fantastic night of food, music, and dancing as we celebrate another great year for St. Brigid's GAA. The event includes a 4-course meal, live band, DJ, and presentation of club awards. Tickets are €50 per person. Contact Mary at events@stbrigidsgaa.ie to book your table."
+    },
+    {
+      "id": 5,
+      "title": "Facilities Upgrade Update",
+      "date": "2025-10-12",
+      "category": "Club Development",
+      "excerpt": "Works on the new dressing room extension are progressing well and should be completed by December.",
+      "content": "Thanks to the hard work of our fundraising committee and the generosity of our members and sponsors, the new dressing room extension is taking shape. The project will provide modern facilities for our growing number of teams, including dedicated ladies' dressing rooms. We'd like to thank all our volunteers and contractors for their efforts."
+    }
+  ]
+}

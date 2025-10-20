@@ -1,0 +1,75 @@
+{
+  "upcoming": [
+    {
+      "id": 1,
+      "date": "2025-10-25",
+      "time": "14:00",
+      "competition": "Dublin Senior Football League",
+      "team": "Senior Football",
+      "opponent": "Ballyboden St. Enda's",
+      "venue": "Home",
+      "type": "League"
+    },
+    {
+      "id": 2,
+      "date": "2025-10-27",
+      "time": "19:30",
+      "competition": "Dublin U21 Hurling Championship",
+      "team": "U21 Hurling",
+      "opponent": "Kilmacud Crokes",
+      "venue": "Away",
+      "type": "Championship"
+    },
+    {
+      "id": 3,
+      "date": "2025-11-01",
+      "time": "15:00",
+      "competition": "Dublin Junior Football Championship",
+      "team": "Junior Football",
+      "opponent": "Na Fianna",
+      "venue": "Home",
+      "type": "Championship"
+    }
+  ],
+  "recent": [
+    {
+      "id": 101,
+      "date": "2025-10-18",
+      "competition": "Dublin Senior Football League",
+      "team": "Senior Football",
+      "opponent": "St. Vincent's",
+      "venue": "Away",
+      "result": "Win",
+      "score": {
+        "us": "2-14",
+        "them": "1-12"
+      }
+    },
+    {
+      "id": 102,
+      "date": "2025-10-15",
+      "competition": "Dublin U18 Hurling League",
+      "team": "U18 Hurling",
+      "opponent": "Cuala",
+      "venue": "Home",
+      "result": "Loss",
+      "score": {
+        "us": "1-10",
+        "them": "2-13"
+      }
+    },
+    {
+      "id": 103,
+      "date": "2025-10-12",
+      "competition": "Dublin Senior Football League",
+      "team": "Senior Football",
+      "opponent": "Raheny",
+      "venue": "Home",
+      "result": "Win",
+      "score": {
+        "us": "3-11",
+        "them": "2-09"
+      }
+    }
+  ]
+}

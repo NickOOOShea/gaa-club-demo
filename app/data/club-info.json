@@ -1,0 +1,58 @@
+{
+  "name": "St. Brigid's GAA",
+  "fullName": "St. Brigid's Gaelic Athletic Association",
+  "tagline": "Pride, Passion, Community Since 1954",
+  "founded": 1954,
+  "location": {
+    "parish": "Drumcondra",
+    "county": "Dublin",
+    "province": "Leinster"
+  },
+  "address": {
+    "street": "Russell Avenue",
+    "area": "Drumcondra",
+    "city": "Dublin 9",
+    "eircode": "D09 X5Y4"
+  },
+  "contact": {
+    "phone": "+353 1 837 5432",
+    "email": "info@stbrigidsgaa.ie",
+    "secretary": "secretary@stbrigidsgaa.ie",
+    "facebook": "https://facebook.com/stbrigidsgaa",
+    "twitter": "@StBrigidsGAA",
+    "instagram": "@stbrigidsgaa"
+  },
+  "pitch": {
+    "name": "St. Brigid's GAA Grounds",
+    "address": "Russell Avenue, Drumcondra, Dublin 9",
+    "facilities": ["Full-size GAA pitch", "Floodlights", "Dressing rooms", "Clubhouse", "Car parking"]
+  },
+  "lotto": {
+    "currentJackpot": 4200,
+    "drawDay": "Monday",
+    "drawTime": "20:00",
+    "ticketPrice": 2,
+    "numbersToPickFrom": 30,
+    "numbersSelected": 4,
+    "lastWinner": {
+      "date": "2025-10-13",
+      "name": "M. O'Sullivan",
+      "area": "Drumcondra",
+      "amount": 3800
+    },
+    "consolationPrize": 20,
+    "sellersCommission": 10,
+    "playOnline": true
+  },
+  "achievements": [
+    "Dublin Senior Football Championship: 1978, 1995, 2003",
+    "Dublin Intermediate Hurling Championship: 1989, 2001",
+    "Leinster Junior Football Championship: 2010",
+    "Club of the Year: 2015"
+  ],
+  "colors": {
+    "primary": "Green",
+    "secondary": "Gold",
+    "jersey": "Green with gold hoops"
+  }
+}

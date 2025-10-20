@@ -1,0 +1,81 @@
+{
+  "teams": [
+    {
+      "id": "senior-football",
+      "name": "Senior Football",
+      "ageGroup": "Adult",
+      "manager": "Declan Murphy",
+      "trainers": ["Sarah O'Connor", "Paul Lynch"],
+      "captain": "James Brennan",
+      "trainingDays": ["Tuesday", "Thursday"],
+      "trainingTime": "19:30 - 21:00",
+      "currentCompetition": "Dublin Senior Football League"
+    },
+    {
+      "id": "senior-hurling",
+      "name": "Senior Hurling",
+      "ageGroup": "Adult",
+      "manager": "Tommy Connolly",
+      "trainers": ["Kevin Walsh"],
+      "captain": "Conor Fitzgerald",
+      "trainingDays": ["Monday", "Wednesday"],
+      "trainingTime": "19:30 - 21:00",
+      "currentCompetition": "Dublin Senior Hurling Championship"
+    },
+    {
+      "id": "u21-football",
+      "name": "U21 Football",
+      "ageGroup": "U21",
+      "manager": "Brian Kelly",
+      "trainers": ["Lisa Murphy"],
+      "captain": "Seán O'Brien",
+      "trainingDays": ["Tuesday", "Friday"],
+      "trainingTime": "18:30 - 20:00",
+      "currentCompetition": "Dublin U21 Football Championship"
+    },
+    {
+      "id": "u21-hurling",
+      "name": "U21 Hurling",
+      "ageGroup": "U21",
+      "manager": "Patrick Delaney",
+      "trainers": ["Emma Byrne"],
+      "captain": "Michael Ryan",
+      "trainingDays": ["Monday", "Thursday"],
+      "trainingTime": "18:30 - 20:00",
+      "currentCompetition": "Dublin U21 Hurling Championship"
+    },
+    {
+      "id": "u18-football",
+      "name": "U18 Football",
+      "ageGroup": "U18",
+      "manager": "John Casey",
+      "trainers": ["Aoife McNamara"],
+      "captain": "Darragh Walsh",
+      "trainingDays": ["Tuesday", "Thursday"],
+      "trainingTime": "18:00 - 19:30",
+      "currentCompetition": "Dublin Minor Football League"
+    },
+    {
+      "id": "u16-hurling",
+      "name": "U16 Hurling",
+      "ageGroup": "U16",
+      "manager": "Martin Doyle",
+      "trainers": ["Claire O'Donnell"],
+      "captain": "Cian McCarthy",
+      "trainingDays": ["Wednesday", "Saturday"],
+      "trainingTime": "17:30 - 19:00",
+      "currentCompetition": "Dublin U16 Hurling League"
+    },
+    {
+      "id": "ladies-football",
+      "name": "Ladies Football",
+      "ageGroup": "Adult",
+      "manager": "Siobhán Kennedy",
+      "trainers": ["Niamh Doyle"],
+      "captain": "Aine Murphy",
+      "trainingDays": ["Monday", "Wednesday"],
+      "trainingTime": "19:00 - 20:30",
+      "currentCompetition": "Dublin Ladies Senior Football Championship"
+    }
+  ]
+}
