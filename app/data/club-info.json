@@ -42,7 +42,8 @@
     },
     "consolationPrize": 20,
     "sellersCommission": 10,
-    "playOnline": true
+    "playOnline": true,
+    "lottoUrl": "https://www.klubfunder.com"
   },
   "achievements": [
     "Dublin Senior Football Championship: 1978, 1995, 2003",

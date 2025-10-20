@@ -90,16 +90,19 @@ export default function ClubLotto() {
                 </div>
               </div>
 
-              {lotto.playOnline && (
-                <motion.button
+              {lotto.playOnline && lotto.lottoUrl && (
+                <motion.a
+                  href={lotto.lottoUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  className="w-full btn-lotto group"
+                  className="w-full btn-lotto group inline-block text-center"
                 >
                   <Ticket className="inline-block mr-2 w-6 h-6 group-hover:rotate-12 transition-transform" />
                   Play Online Now
                   <ExternalLink className="inline-block ml-2 w-5 h-5" />
-                </motion.button>
+                </motion.a>
               )}
             </div>
 
